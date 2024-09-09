@@ -1,0 +1,2 @@
+# index.js
+learning JS
